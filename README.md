@@ -1,2 +1,2 @@
 # react-todoApp
-app todo list
+app todo lists
