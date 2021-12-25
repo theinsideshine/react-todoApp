@@ -5,3 +5,4 @@ para crear una lista de tareas.
 
 [Documentacion de la App](doc/React-TodoApp.pdf)
 
+[![Ver el video](doc/video_prev.gif)](https://youtu.be/QDAQWScQcnc )
